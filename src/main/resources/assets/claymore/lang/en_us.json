@@ -1,0 +1,6 @@
+{
+  "item.claymore.claymore": "Claymore",
+  "desc.claymore.claymore": "A mighty weapon created from clicking on a cauldron of lava with an iron sword. Gains 10% of the enemies health as damage. Lower damage values do not overwrite higher ones",
+  "key.category.claymore": "Claymore",
+  "key.category.claymore.toggle_state": "Toggle Claymore State"
+}
